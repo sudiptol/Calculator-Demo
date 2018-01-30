@@ -13,7 +13,6 @@
 		9510E40C1FB7EA3200C2DB2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9510E40B1FB7EA3200C2DB2C /* Assets.xcassets */; };
 		9510E40F1FB7EA3200C2DB2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9510E40D1FB7EA3200C2DB2C /* LaunchScreen.storyboard */; };
 		9510E4181FB7F01F00C2DB2C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9510E4171FB7F01F00C2DB2C /* Default-568h@2x.png */; };
-		9510E4191FB7F3EF00C2DB2C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9510E4101FB7EA3200C2DB2C /* Info.plist */; };
 		9510E41C1FB9E05500C2DB2C /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9510E41B1FB9E05500C2DB2C /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
@@ -106,7 +105,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0910;
-				LastUpgradeCheck = 0910;
+				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Sudipto Lahiry";
 				TargetAttributes = {
 					9510E4001FB7EA3200C2DB2C = {
@@ -141,7 +140,6 @@
 				9510E40F1FB7EA3200C2DB2C /* LaunchScreen.storyboard in Resources */,
 				9510E4181FB7F01F00C2DB2C /* Default-568h@2x.png in Resources */,
 				9510E40C1FB7EA3200C2DB2C /* Assets.xcassets in Resources */,
-				9510E4191FB7F3EF00C2DB2C /* Info.plist in Resources */,
 				9510E40A1FB7EA3200C2DB2C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
